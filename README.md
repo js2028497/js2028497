@@ -2,7 +2,8 @@
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://js2028497.github.io">John Smith Studio</a><br/>
     
-<a href="https://t.me/cp_32" target="_blank" title="Написать в Telegram" rel="noopener noreferrer"><div class="telegram-button"><i class="fa fa-telegram"></i></div></a>
+<script async src=»https://telegram.org/js/telegram-widget.js?21″ data-telegram-post=»t.me/cp_32/1» data- data-color=»13B4C6″ data-dark=»1″ data-dark-color=»39C4E8″></script>
+
 
 #### About me...
 
