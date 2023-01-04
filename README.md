@@ -1,8 +1,8 @@
 ### Hi, I'm John Smith! 👋
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://js2028497.github.io">John Smith Studio</a><br/>
-
-<a href="https://t.me/cp_32" target="_blank" title="Написать в Telegram" rel="noopener noreferrer"></a>
+    
+<a href="https://t.me/cp_32" target="_blank" title="Написать в Telegram" rel="noopener noreferrer"><div class="telegram-button"><i class="fa fa-telegram"></i></div></a>
 
 #### About me...
 
@@ -21,21 +21,3 @@ const me = {
     os: "macOS"
 };
 ```
-
-
-<!--
-**js2028497/js2028497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
