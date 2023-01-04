@@ -1,7 +1,7 @@
 ### Hi, I'm John Smith! 👋
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://js2028497.github.io">John Smith Studio</a><br/>
-<p><em>Telegram @ <a href="https://telegram.me/cp_32">John Smith Telegram</a><br/>
+<p><em>Telegram @ <a href="https://t.me/5581410065">John Smith Telegram</a><br/>
     
 
 
