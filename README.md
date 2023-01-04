@@ -2,9 +2,8 @@
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://js2028497.github.io">John Smith Studio</a><br/>
     
-    [![Telegram: js2028497](https://img.shields.io/badge/-js2028497-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://telegram.me/cp_32)](https://telegram.me/cp_32)
     
-<a title="Telegram" href="https://telegram.me/cp_32" target="_blank"><img src="./Telegram_big.png” alt="Написать в Telegram" /></a> 
+<a title="Telegram" href="https://telegram.me/cp_32" target="_blank"><img src="./Telegram_big.png” alt="Написать в Telegram" />
 
 
 #### About me...
