@@ -2,7 +2,7 @@
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://js2028497.github.io">John Smith Studio</a><br/>
     
-<a title="Telegram" href="https://t.me/cp_32" target="_blank"><img src="./Telegram_big.png” alt="Написать в Telegram" /></a> 
+<a title="Telegram" href="https://telegram.me/cp_32" target="_blank"><img src="./Telegram_big.png” alt="Написать в Telegram" /></a> 
 
 
 #### About me...
